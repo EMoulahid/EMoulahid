@@ -14,6 +14,6 @@ Projects
 This repository contains a collection of my data science projects. Each project includes a detailed description, the dataset used, the methodology, and the results. Below are some of the projects showcased:
 
 Email: emoulahid@gmail.com
-LinkedIn: El Mostafa Moulahid
+LinkedIn: [El Mostafa Moulahid](https://www.linkedin.com/in/el-mostafa-moulahid-005250153/)
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
