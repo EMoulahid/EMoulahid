@@ -15,5 +15,4 @@ This repository contains a collection of my data science projects. Each project 
 
 Email: emoulahid@gmail.com
 LinkedIn: [El Mostafa Moulahid](https://www.linkedin.com/in/el-mostafa-moulahid-005250153/)
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
